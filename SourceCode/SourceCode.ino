@@ -1,4 +1,3 @@
-// (c) Michael Schoeffler 2017, http://www.mschoeffler.de
 #include "Wire.h" // This library allows you to communicate with I2C devices.
 #define BLYNK_PRINT Serial
 #include <BlynkSimpleSerialBLE.h>
